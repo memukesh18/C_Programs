@@ -1,3 +1,5 @@
+/* Program to sort the elements of an array using bubble sort technique */
+
 #include <stdio.h>
 
 void bubble_sort();
