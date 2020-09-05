@@ -10,7 +10,7 @@ int top = -1;
 
 void main(){
 	int choice;
-	char ch;
+	
 	do{
 		printf("**************\n");
 		printf("1. PUSH \n");
