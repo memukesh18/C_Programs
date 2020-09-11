@@ -13,6 +13,7 @@ node *insert(node *tree, long num);
 void preorder(node *tree);
 void inorder(node *tree);
 void postorder(node *tree);
+int choose();
 int count = 1;
 
 int main(){
